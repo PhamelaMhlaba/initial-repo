@@ -6,3 +6,4 @@ Huskies
 Pugs
 Poodles
 Chihuahua
+Alaskan Malamute
